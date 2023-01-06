@@ -47,6 +47,9 @@ export default function Page() {
             <li key={url}>
               <h2 className="text-xl font-bold leading-relaxed">
                 <a
+                  referrerPolicy="no-referrer"
+                  rel="noopener noreferrer"
+                  target="_blank"
                   href={url}
                   className="cursor-pointer hover:underline group-visited:text-zinc-500 dark:visited:text-gray-400"
                 >

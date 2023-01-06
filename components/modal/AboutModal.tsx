@@ -28,7 +28,8 @@ const AboutModal: React.FC = () => {
               >
                 InkoHX/news-api
               </a>
-              のWeb APIを使って実装された<strong>InkoHX専用のRSS Reader</strong>です。
+              のWeb APIを使って実装された<strong>InkoHX専用のRSS Reader</strong>
+              です。
             </p>
             <p>
               このサイトでバグを見つけた場合、
